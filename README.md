@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  풀스텍 개발자를 꿈꾸며 공부하고 있는 서유정입니다.
+  </br>
+  노력과 배움을 즐기며 정진하겠습니다.
+</p>
+
+<p>
+  I'm Yujeong Seo who dreams of becoming a full-stack developer.
+  </br>
+  I'll move forward enjoying the effort and learning.
+</p>
