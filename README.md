@@ -61,4 +61,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 </div>
 
+---
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yujeongaz&color=white)](https://velog.io/@yujeongaz)
