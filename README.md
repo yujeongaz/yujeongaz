@@ -64,4 +64,3 @@ Here are some ideas to get you started:
 ---
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yujeongaz&color=white)](https://velog.io/@yujeongaz)
-
