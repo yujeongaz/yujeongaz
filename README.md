@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  풀스텍 개발자를 꿈꾸며 공부하고 있는 서유정입니다.
+  풀스텍 개발자를 꿈꾸며 공부하고 있는 <div style="fontWeigth: bold">서유정<div>입니다.
   </br>
   노력과 배움을 즐기며 정진하겠습니다.
 </p>
